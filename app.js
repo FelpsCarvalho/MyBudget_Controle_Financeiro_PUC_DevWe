@@ -183,7 +183,7 @@ function carregaListaDespesas(despesas = Array(), filtro = false) {
 	/*
 
 	<tr>
-		<td>15/03/2018</td>
+		<td>15/03/2022</td>
 		<td>Alimentação</td>
 		<td>Compras do mês</td>
 		<td>444.75</td>
